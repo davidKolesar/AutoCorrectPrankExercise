@@ -1,5 +1,5 @@
 # AutoCorrectPrankExercise
-Write a method called "autocorrect" that takes a string and replaces all instances of "you," "u," or any permutation of the word "you" (not case sensitive) with "your sister" (always lower case).  Return the resulting string.
+Create an algorithm called "autocorrect" that takes a string and replaces all instances of "you," "u," or any permutation of the word "you" (not case sensitive) with "your sister" (always lower case).  Return the resulting string.
 
 Here's the slightly tricky part: These are text messages, so there are different forms of "you" and "u".
 
